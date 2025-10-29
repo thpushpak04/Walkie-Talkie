@@ -1,0 +1,19 @@
+{
+  "name": "walkie-talkie-p2p-lan",
+  "version": "1.0.0",
+  "description": "A secure, real-time local area network (LAN) chat application featuring Socket.IO for real-time chat and Multer for direct file sharing.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "[**Please replace this with your name/Student ID**]",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "socket.io": "^4.8.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}

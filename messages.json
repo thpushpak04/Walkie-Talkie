@@ -1,0 +1,28 @@
+[
+  {
+    "username": "thpus",
+    "color": "#000000",
+    "time": "2025-10-29T06:47:00.603Z",
+    "room": "Z0PFIA",
+    "messageId": "mhbmuoe3xsavp",
+    "file": {
+      "name": "java ceertificate (1).png",
+      "path": "/uploads/chatFile-1761720420596-java ceertificate (1).png",
+      "size": 273778,
+      "mimetype": "image/png"
+    }
+  },
+  {
+    "username": "thpus",
+    "color": "#000000",
+    "time": "2025-10-29T14:04:26.813Z",
+    "room": "public",
+    "messageId": "mhc2h83hv7bkc",
+    "file": {
+      "name": "package.json",
+      "path": "/uploads/chatFile-1761746666807-package.json",
+      "size": 619,
+      "mimetype": "application/json"
+    }
+  }
+]
